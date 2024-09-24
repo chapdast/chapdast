@@ -10,9 +10,13 @@ I specialize in working with gRPC APIs, microservices, and backend system archit
 
 #### CONTACT ME
 [![LinkedIn](https://img.icons8.com/?size=15&id=13930&format=png&color=000000) LinkedIn](https://linkedin.com/in/chapdast)
+
 [![GitHub](https://img.icons8.com/?size=15&id=12599&format=png&color=000000) Github]( https://github.com/chapdast)
+
 [![Telegram](https://img.icons8.com/?size=15&id=63306&format=png&color=000000) Telegram]( https://t.me/chapdastdev)
+
 [![X](https://img.icons8.com/?size=15&id=13963&format=png&color=000000) X](https://x.com/chapdastdev)
+
 [![Email](https://img.icons8.com/?size=15&id=qyRpAggnV0zH&format=png&color=000000) Gmail]( mailto:chapdast.dev@gmail.com)
 
 
