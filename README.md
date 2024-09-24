@@ -8,7 +8,7 @@ My skill set includes Go, PostgreSQL, Neo4j, Redis, NATS, Kafka, PLV8, JavaScrip
 I specialize in working with gRPC APIs, microservices, and backend system architecture, balancing both system design and practical implementation.
 
 
-#### Contacts
+#### CONTACT ME
 [![LinkedIn](https://img.icons8.com/?size=20&id=13930&format=png&color=000000) LinkedIn](https://linkedin.com/in/chapdast)
 [![GitHub](https://img.icons8.com/?size=20&id=12599&format=png&color=000000) Github]( https://github.com/chapdast)
 [![Telegram](https://img.icons8.com/?size=20&id=63306&format=png&color=000000) Telegram]( https://t.me/chapdastdev)
